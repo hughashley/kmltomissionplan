@@ -8,15 +8,15 @@ import json
 
 
 # create the application
-myapp = Tk()
+#myapp = Tk()
 
 def convertFile():
     pass
 
-myapp.title(".KML to QGC file format")
-myapp.geometry('400x400')
-Label(myapp, text="select input file").pack()
-Button(myapp, text = 'convert', width = 10, height = 1, command = convertFile).pack()
+#myapp.title(".KML to QGC file format")
+#myapp.geometry('400x400')
+#Label(myapp, text="select input file").pack()
+#Button(myapp, text = 'convert', width = 10, height = 1, command = convertFile).pack()
 
 
 
